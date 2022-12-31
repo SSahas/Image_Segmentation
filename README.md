@@ -17,4 +17,3 @@ Semantic segmentation is an approach detecting, for every pixel, belonging class
 ```
 
 
-- > Try  the web app : https://huggingface.co/spaces/SSahas/Image_segmentation
